@@ -20,305 +20,6 @@ Metadata:
           default: SSH CIDR
         Parameters:
           - SSHLocation
-  'AWS::CloudFormation::Designer':
-    eeaeca46-023f-437e-b0f6-27df3c1b9041:
-      size:
-        width: 60
-        height: 60
-      position:
-        x: 810
-        'y': 390
-      z: 1
-      embeds: []
-    641e68d7-5f51-4f29-8b75-f41b1510b285:
-      size:
-        width: 700
-        height: 850
-      position:
-        x: 40
-        'y': 90
-      z: 1
-      embeds:
-        - 6c0eb111-ef4c-42de-a02f-987801e9e19a
-        - c473c754-2ccc-40b7-9ff4-3269c3a00f35
-        - fdde6368-62f0-4ec4-bfb1-76be38aff262
-        - f7bc4659-af45-458b-8108-80bf5d2412a8
-        - 9557713d-2bbc-4ad8-8624-3d8fc38706bc
-        - 26950568-5a1b-4422-80a2-46fc178e0801
-        - 0a51dfbc-7678-48fd-b4e0-459b2bd0ccdf
-        - 19fb33cd-6732-471a-b7c7-b76ef6e24026
-        - ec0815d1-c82a-43b4-8a95-9413561889ff
-        - 429cebd8-513c-4109-869b-5933c7cbfc99
-    6c0eb111-ef4c-42de-a02f-987801e9e19a:
-      size:
-        width: 60
-        height: 60
-      position:
-        x: 130
-        'y': 730
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    c473c754-2ccc-40b7-9ff4-3269c3a00f35:
-      size:
-        width: 60
-        height: 60
-      position:
-        x: 270
-        'y': 830
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    fdde6368-62f0-4ec4-bfb1-76be38aff262:
-      size:
-        width: 60
-        height: 60
-      position:
-        x: 270
-        'y': 730
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    f7bc4659-af45-458b-8108-80bf5d2412a8:
-      size:
-        width: 60
-        height: 60
-      position:
-        x: 410
-        'y': 730
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    9557713d-2bbc-4ad8-8624-3d8fc38706bc:
-      size:
-        width: 150
-        height: 150
-      position:
-        x: 490
-        'y': 390
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    26950568-5a1b-4422-80a2-46fc178e0801:
-      size:
-        width: 150
-        height: 150
-      position:
-        x: 490
-        'y': 180
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    0a51dfbc-7678-48fd-b4e0-459b2bd0ccdf:
-      size:
-        width: 150
-        height: 150
-      position:
-        x: 280
-        'y': 390
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    19fb33cd-6732-471a-b7c7-b76ef6e24026:
-      size:
-        width: 150
-        height: 150
-      position:
-        x: 70
-        'y': 390
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    d9c9184f-44bc-4427-8e07-d60fc1324682:
-      size:
-        width: 200
-        height: 210
-      position:
-        x: 810
-        'y': 90
-      z: 1
-      embeds:
-        - 52e2ee74-b0ab-4a59-b319-c666f5dcf2f1
-    52e2ee74-b0ab-4a59-b319-c666f5dcf2f1:
-      size:
-        width: 60
-        height: 60
-      position:
-        x: 840
-        'y': 150
-      z: 2
-      parent: d9c9184f-44bc-4427-8e07-d60fc1324682
-      embeds: []
-      isassociatedwith:
-        - eeaeca46-023f-437e-b0f6-27df3c1b9041
-      iscontainedinside:
-        - d9c9184f-44bc-4427-8e07-d60fc1324682
-        - d9c9184f-44bc-4427-8e07-d60fc1324682
-        - d9c9184f-44bc-4427-8e07-d60fc1324682
-        - d9c9184f-44bc-4427-8e07-d60fc1324682
-        - d9c9184f-44bc-4427-8e07-d60fc1324682
-        - d9c9184f-44bc-4427-8e07-d60fc1324682
-        - d9c9184f-44bc-4427-8e07-d60fc1324682
-    ec0815d1-c82a-43b4-8a95-9413561889ff:
-      size:
-        width: 150
-        height: 150
-      position:
-        x: 280
-        'y': 180
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    d2ac9e88-d3a0-4576-8755-10238e4e7a3b:
-      source:
-        id: d9c9184f-44bc-4427-8e07-d60fc1324682
-      target:
-        id: ec0815d1-c82a-43b4-8a95-9413561889ff
-      z: 2
-    429cebd8-513c-4109-869b-5933c7cbfc99:
-      size:
-        width: 150
-        height: 150
-      position:
-        x: 70
-        'y': 180
-      z: 2
-      parent: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      embeds: []
-      iscontainedinside:
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-        - 641e68d7-5f51-4f29-8b75-f41b1510b285
-    5d28d296-ae14-4a79-beba-4c03927d9216:
-      source:
-        id: d9c9184f-44bc-4427-8e07-d60fc1324682
-      target:
-        id: 429cebd8-513c-4109-869b-5933c7cbfc99
-      z: 2
-    a11e0a84-6609-4e36-9028-6994a43a7c5f:
-      source:
-        id: 641e68d7-5f51-4f29-8b75-f41b1510b285
-      target:
-        id: eeaeca46-023f-437e-b0f6-27df3c1b9041
-      z: 1
-    3767d883-785a-47f8-a08e-d978bebcca5f:
-      size:
-        width: 140
-        height: 140
-      position:
-        x: 800
-        'y': 500
-      z: 0
-      embeds: []
-    dec140d2-08b8-4327-8f5d-d6a19d047ecf:
-      source:
-        id: 086a924e-6ab8-43a8-9de4-7446812bd46a
-      target:
-        id: 9557713d-2bbc-4ad8-8624-3d8fc38706bc
-      z: 0
-    9f05cfd7-5dd2-400b-abf2-e63edeb9aba7:
-      source:
-        id: 086a924e-6ab8-43a8-9de4-7446812bd46a
-      target:
-        id: 26950568-5a1b-4422-80a2-46fc178e0801
-      z: 0
-    086a924e-6ab8-43a8-9de4-7446812bd46a:
-      size:
-        width: 140
-        height: 140
-      position:
-        x: 800
-        'y': 670
-      z: 0
-      embeds: []
-    82295163-1ada-455b-a523-cc46e7b21546:
-      source:
-        id: 3767d883-785a-47f8-a08e-d978bebcca5f
-      target:
-        id: 19fb33cd-6732-471a-b7c7-b76ef6e24026
-      z: 0
-    dd9283a2-b930-4ea5-b6bc-b9abdd6573cb:
-      source:
-        id: 3767d883-785a-47f8-a08e-d978bebcca5f
-      target:
-        id: 0a51dfbc-7678-48fd-b4e0-459b2bd0ccdf
-      z: 0
 Parameters:
   VpcCIDR:
     Default: 10.0.0.1/19
@@ -367,26 +68,17 @@ Resources:
           Value: Test VPC
         - Key: ENV
           Value: Test
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 641e68d7-5f51-4f29-8b75-f41b1510b285
   InternetGateway:
     Type: 'AWS::EC2::InternetGateway'
     Properties:
       Tags:
         - Key: Name
           Value: Test IGW
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: eeaeca46-023f-437e-b0f6-27df3c1b9041
   IGWAttachment:
     Type: 'AWS::EC2::VPCGatewayAttachment'
     Properties:
       InternetGatewayId: !Ref InternetGateway
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: a11e0a84-6609-4e36-9028-6994a43a7c5f
   PublicSubnet1:
     Type: 'AWS::EC2::Subnet'
     Properties:
@@ -401,9 +93,6 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 429cebd8-513c-4109-869b-5933c7cbfc99
   PublicSubnet2:
     Type: 'AWS::EC2::Subnet'
     Properties:
@@ -418,9 +107,6 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: ec0815d1-c82a-43b4-8a95-9413561889ff
   PublicRouteTable:
     Type: 'AWS::EC2::RouteTable'
     Properties:
@@ -430,34 +116,22 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: d9c9184f-44bc-4427-8e07-d60fc1324682
   PublicRoute:
     Type: 'AWS::EC2::Route'
     Properties:
       DestinationCidrBlock: 0.0.0.0/0
       GatewayId: !Ref InternetGateway
       RouteTableId: !Ref PublicRouteTable
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 52e2ee74-b0ab-4a59-b319-c666f5dcf2f1
   PublicSubnet1RouteTableAssociation:
     Type: 'AWS::EC2::SubnetRouteTableAssociation'
     Properties:
       RouteTableId: !Ref PublicRouteTable
       SubnetId: !Ref PublicSubnet1
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 5d28d296-ae14-4a79-beba-4c03927d9216
   PublicSubnet2RouteTableAssociation:
     Type: 'AWS::EC2::SubnetRouteTableAssociation'
     Properties:
       RouteTableId: !Ref PublicRouteTable
       SubnetId: !Ref PublicSubnet2
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: d2ac9e88-d3a0-4576-8755-10238e4e7a3b
   PrivAppSubnet1:
     Type: 'AWS::EC2::Subnet'
     Properties:
@@ -472,9 +146,6 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 19fb33cd-6732-471a-b7c7-b76ef6e24026
   PrivAppSubnet2:
     Type: 'AWS::EC2::Subnet'
     Properties:
@@ -489,9 +160,6 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 0a51dfbc-7678-48fd-b4e0-459b2bd0ccdf
   PrivDBSubnet1:
     Type: 'AWS::EC2::Subnet'
     Properties:
@@ -506,9 +174,6 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 26950568-5a1b-4422-80a2-46fc178e0801
   PrivDBSubnet2:
     Type: 'AWS::EC2::Subnet'
     Properties:
@@ -523,9 +188,6 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 9557713d-2bbc-4ad8-8624-3d8fc38706bc
   ALBSecurityGroup:
     Type: 'AWS::EC2::SecurityGroup'
     Properties:
@@ -545,9 +207,6 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: c473c754-2ccc-40b7-9ff4-3269c3a00f35
   SSHSecurityGroup:
     Type: 'AWS::EC2::SecurityGroup'
     Properties:
@@ -561,9 +220,6 @@ Resources:
         - Key: Name
           Value: SSH Security Group
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 6c0eb111-ef4c-42de-a02f-987801e9e19a
   WebServerSecurityGroup:
     Type: 'AWS::EC2::SecurityGroup'
     Properties:
@@ -587,9 +243,6 @@ Resources:
         - Key: Name
           Value: Webserver Security Group
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: fdde6368-62f0-4ec4-bfb1-76be38aff262
   DatabaseSecurityGroup:
     Type: 'AWS::EC2::SecurityGroup'
     Properties:
@@ -605,82 +258,41 @@ Resources:
         - Key: ENV
           Value: Test
       VpcId: !Ref TestVPC
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: f7bc4659-af45-458b-8108-80bf5d2412a8
   PrivSubnetRouteTableA:
     Type: 'AWS::EC2::RouteTable'
     Properties:
       VpcId: !Ref TestVPC
       Tags:
         - Key: Name
-          Value: Priv Subnet Route Table A
+          Value: Priv-Subnet-Route-Table-A
         - Key: ENV
           Value: Test
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 3767d883-785a-47f8-a08e-d978bebcca5f
   PrivSubnetRouteTableB:
     Type: 'AWS::EC2::RouteTable'
     Properties:
       VpcId: !Ref TestVPC
       Tags:
         - Key: Name
-          Value: Priv Subnet Route Table B
+          Value: Priv-Subnet-Route-Table-B
         - Key: ENV
           Value: Test
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 086a924e-6ab8-43a8-9de4-7446812bd46a
-  PrivSubnetRouteTableA1Association:
+  PrivSubnetRouteTableAAssociation1:
     Type: 'AWS::EC2::SubnetRouteTableAssociation'
     Properties:
       RouteTableId: !Ref PrivSubnetRouteTableA
       SubnetId: !Ref PrivAppSubnet1
-      Tags:
-        - Key: Name
-          Value: Priv Subnet Route Table A1 AAssoc
-        - Key: ENV
-          Value: Test
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: dec140d2-08b8-4327-8f5d-d6a19d047ecf
-  PrivSubnetRouteTableA2Association:
+  PrivSubnetRouteTableAAssociation2:
     Type: 'AWS::EC2::SubnetRouteTableAssociation'
     Properties:
       RouteTableId: !Ref PrivSubnetRouteTableA
       SubnetId: !Ref PrivDBSubnet1
-      Tags:
-        - Key: Name
-          Value: Priv Subnet Route Table A2 Assoc
-        - Key: ENV
-          Value: Test
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 9f05cfd7-5dd2-400b-abf2-e63edeb9aba7
-  PrivSubnetRouteTableB1Assoc:
+  PrivSubnetRouteTableBAssoc1:
     Type: 'AWS::EC2::SubnetRouteTableAssociation'
     Properties:
       RouteTableId: !Ref PrivSubnetRouteTableB
       SubnetId: !Ref PrivAppSubnet2
-      Tags:
-        - Key: Name
-          Value: Priv App Subnet 2 Route Table B1 Assoc
-        - Key: ENV
-          Value: Test
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: 82295163-1ada-455b-a523-cc46e7b21546
-  PrivSubnetRouteTableB2Assoc:
+  PrivSubnetRouteTableBAssoc2:
     Type: 'AWS::EC2::SubnetRouteTableAssociation'
     Properties:
       RouteTableId: !Ref PrivSubnetRouteTableB
       SubnetId: !Ref PrivDBSubnet2
-      Tags:
-        - Key: Name
-          Value: Priv DB Subnet 2 Route Table B Assoc
-        - Key: ENV
-          Value: Test
-    Metadata:
-      'AWS::CloudFormation::Designer':
-        id: dd9283a2-b930-4ea5-b6bc-b9abdd6573cb
